@@ -15,6 +15,7 @@
     "@types/qrcode": "^1.5.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "fs": "^0.0.1-security",
     "nodemon": "^3.1.4",
     "qrcode": "^1.5.3",
     "ts-node": "^10.9.2",
